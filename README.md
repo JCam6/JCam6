@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello! 👋
 
 <!--
 **JCam6/JCam6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**💬 Languages**
+
+![](https://img.shields.io/badge/Code-Python-red?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-Bash-red?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-PowerShell-red?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-SQL-red?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-SAS-red?style=for-the-badge&logo=appveyor)
+
+**🔭 Technologies**
+
+![](https://img.shields.io/badge/OS-Ubuntu-blue?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/OS-Kali--Linux-blue?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/OS-Debian-blue?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Firewall-pfSense-blue?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/OS-ParrotOS-blue?style=for-the-badge&logo=appveyor)
+
+**🌱 Tools**
+
+![](https://img.shields.io/badge/Tools-Wireshark-green?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Tools-Nessus-green?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Tools-SCAP--Workbench-green?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Tools-TCP%2FIP-green?style=for-the-badge&logo=appveyor)
+
+**⚡ Cybersecurity Projects**
+
+![](https://img.shields.io/badge/Offensive-PrivEsc-9cf?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Offensive-CodeInject-9cf?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Defensive-OpenSCAP-9cf?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Defensive-Network%20Scanning-9cf?style=for-the-badge&logo=appveyor)
