@@ -22,14 +22,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-PowerShell-red?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Code-SQL-red?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Code-SAS-red?style=for-the-badge&logo=appveyor)
 
 **🔭 Technologies**
 
 ![](https://img.shields.io/badge/OS-Ubuntu-blue?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/OS-Kali--Linux-blue?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/OS-Debian-blue?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Firewall-pfSense-blue?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/OS-Parrot%20OS-blue?style=for-the-badge&logo=appveyor)
 
