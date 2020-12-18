@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Kali--Linux-blue?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/OS-Debian-blue?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Firewall-pfSense-blue?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/OS-ParrotOS-blue?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/OS-Parrot%20OS-blue?style=for-the-badge&logo=appveyor)
 
 **🌱 Tools**
 
@@ -39,10 +39,13 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Nessus-green?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Tools-SCAP--Workbench-green?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Tools-TCP%2FIP-green?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Tools-ATT%26K%20Matrix-green?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Tools-TrueNAS-green?style=for-the-badge&logo=appveyor)
 
 **⚡ Cybersecurity Projects**
 
-![](https://img.shields.io/badge/Offensive-PrivEsc-9cf?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Offensive-CodeInject-9cf?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Offensive-Priv%20Esc-9cf?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Offensive-Code%20Inject-9cf?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Defensive-OpenSCAP-9cf?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Defensive-Network%20Scanning-9cf?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Offensive-Kernel%20Exlploit-9cf?style=for-the-badge&logo=appveyor)
