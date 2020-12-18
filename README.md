@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Offensive-Code%20Inject-9cf?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Defensive-OpenSCAP-9cf?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Defensive-Network%20Scanning-9cf?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Offensive-Kernel%20Exlploit-9cf?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Offensive-Kernel%20Exploit-9cf?style=for-the-badge&logo=appveyor)
