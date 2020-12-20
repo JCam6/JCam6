@@ -33,7 +33,7 @@ I'm a researcher and IT security fanatic with a :heart: for code. I’m currentl
 
 ![](https://img.shields.io/badge/Offensive-Priv%20Esc-9cf?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Offensive-Code%20Inject-9cf?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Defensive-OpenSCAP-9cf?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Offensive-Web%20Scanning-9cf?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Defensive-Network%20Scanning-9cf?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Offensive-Kernel%20Exploit-9cf?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Offensive-Web%20Scanning-9cf?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Defensive-OpenSCAP-9cf?style=for-the-badge&logo=appveyor)
