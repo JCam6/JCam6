@@ -1,6 +1,6 @@
 ## Hello, I'm Jay! 👋
 
-I'm a researcher and IT security fanatic with a :heart: for code. I’m currently completing a Master’s degree in Cybersecurity, feel free to check out the info in my repo's here and connect with me on discord ( :point_right: jcam_KSU#6278 ).
+I'm a researcher and IT security fanatic with a :heart: for code. I’m currently completing a Master’s degree in Cybersecurity, feel free to check out the info in my repo's here and connect with me on discord [ :point_right: jcam_KSU#6278 ].
 
 **💬 Languages**
 
