@@ -37,3 +37,11 @@ I'm a researcher and IT security fanatic with a :heart: for code. I’m currentl
 ![](https://img.shields.io/badge/Defensive-Network%20Scanning-9cf?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Offensive-Kernel%20Exploit-9cf?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Defensive-OpenSCAP-9cf?style=for-the-badge&logo=appveyor)
+
+**:closed_book: Background**
+
+Bachelor's Degree in Finance <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
+
+M.B.A. in Management & Strategy <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
+
+Master's Degree in Cybersecurity <img src="https://media.giphy.com/media/sSgvbe1m3n93G/giphy.gif" width="20">
