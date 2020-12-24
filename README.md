@@ -1,4 +1,4 @@
-![gif](https://github.com/JCam6/JCam6/blob/main/Geo.gif)
+![gif](https://github.com/JCam6/JCam6/blob/main/GeoHello.gif)
 
 <h1 align ="center">Hello, I'm Jay! 👋 </h1>
 
