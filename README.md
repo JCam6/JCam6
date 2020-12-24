@@ -1,5 +1,3 @@
-# Hello, I'm Jay! 👋 
-
 <html>
 <h1 align ="center">Hello, I'm Jay! 👋 </h1>
 </html>
