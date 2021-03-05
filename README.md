@@ -44,4 +44,4 @@ Bachelor's Degree in Finance <img src="https://media.giphy.com/media/bRpa6DFERjT
 
 M.B.A. in Management & Strategy <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
 
-Master's Degree in Cybersecurity <img src="https://media.giphy.com/media/sSgvbe1m3n93G/giphy.gif" width="20">
+M.S. in Cybersecurity <img src="https://media.giphy.com/media/sSgvbe1m3n93G/giphy.gif" width="20">
