@@ -42,6 +42,6 @@ I'm a researcher and IT security fanatic with a :heart: for code. I’m currentl
 
 Bachelor's Degree in Finance <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
 
-M.B.A. in Management & Strategy <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
+M.B.A. Management & Strategy <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
 
-M.S. in Cybersecurity <img src="https://media.giphy.com/media/sSgvbe1m3n93G/giphy.gif" width="20">
+M.Sc. Cybersecurity <img src="https://media.giphy.com/media/sSgvbe1m3n93G/giphy.gif" width="20">
