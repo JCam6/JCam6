@@ -1,6 +1,6 @@
 ![gif](https://github.com/JCam6/JCam6/blob/main/GeoHello.gif)
 
-I'm a researcher and IT security fanatic with a :heart: for code. I’m currently completing a Master’s degree in Cybersecurity, feel free to check out the info in my repos here and connect with me on discord.
+I'm a researcher and IT security professional with a :heart: for code. I’m currently completing a Master’s degree in Cybersecurity, feel free to check out the info in my repos here and connect with me on discord.
 
 **💬 Languages**
 
