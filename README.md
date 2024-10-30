@@ -40,8 +40,10 @@ I'm a researcher and IT security fanatic with a :heart: for code. I’m currentl
 
 **:closed_book: Background**
 
-Bachelor's Degree in Finance <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
+Bachelor's in Finance <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
 
 M.B.A. Management & Strategy <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
 
 M.Sc. Cybersecurity <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
+
+D.Eng. Cybersecurity <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpydHduanRydDl2cnl6eGFqMWo3ZzVib2FqYWxkdmw2NXd1eWViNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ASZtb7vdJagM/giphy.gif" width="20">
