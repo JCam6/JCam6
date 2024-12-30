@@ -46,4 +46,4 @@ M.B.A. Management & Strategy <img src="https://media.giphy.com/media/bRpa6DFERjT
 
 M.Sc. Cybersecurity <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
 
-D.Eng. Cybersecurity <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE0eXo3bWhsbnRvd3pwdjQ5OTcydmJ4cG90ZDd3NTN6MXp4NjJkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/131tNuGktpXGhy/giphy.gif" width="20">
+D.Eng. Cybersecurity <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
