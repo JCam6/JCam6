@@ -38,10 +38,10 @@ Hello! Thanks for visting my GitHub page, I'm a Cybersecurity professional and r
 
 **:closed_book: Background**
 
-Bachelor's in Finance <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
+Bachelor's in Finance 
 
-M.B.A. Management & Strategy <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
+M.B.A. Management & Strategy 
 
-M.Sc. Cybersecurity <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
+M.Sc. Cybersecurity 
 
-D.Eng. Cybersecurity <img src="https://media.giphy.com/media/bRpa6DFERjTR9roQcQ/giphy.gif" width="20">
+D.Eng. Cybersecurity 
