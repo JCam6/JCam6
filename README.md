@@ -1,6 +1,4 @@
-![gif](https://github.com/JCam6/JCam6/blob/main/GeoHello.gif)
-
-I'm a researcher and IT security professional with a :heart: for code. I’m currently completing a Doctoral degree in Cybersecurity, feel free to check out the info in my repos here and connect with me on discord.
+Hello! Thanks for visting my GitHub page, I'm a Cybersecurity professional and researcher with a :heart: for code. I’ve completed a Doctoral degree in Cybersecurity, feel free to check out the info in my repos here and connect with me via email, phone, or discord.
 
 **💬 Languages**
 
